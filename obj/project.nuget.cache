@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KhUK444QSqpNkhTpYDFoEYAEO++almN2gAQ6EaCXJ9c930OZWaR4EcOWfn8zA6mq1ZK1VtjCurpBmSAlaSyuqw==",
+  "success": true,
+  "projectFilePath": "/home/nico/Documentos/csharppruebas/convertirSvgIco/convertirSvgIco.csproj",
+  "expectedPackageFiles": [
+    "/home/nico/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/home/nico/.nuget/packages/system.drawing.common/8.0.10/system.drawing.common.8.0.10.nupkg.sha512",
+    "/home/nico/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
